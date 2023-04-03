@@ -1,0 +1,8 @@
+Negative Test Cases For Gmail Login :
+
+Enter a valid username and an invalid password.
+Enter a valid password but invalid username.
+Keep both fields blank and click enter.
+Keep the username blank and enter a password.
+Keep the password blank and enter a username.
+Enter username and password wrong.

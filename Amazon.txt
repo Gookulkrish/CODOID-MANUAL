@@ -1,0 +1,15 @@
+Check whether the Shopping Cart button is seen on the product display page.
+Check whether the quantity of the product increases when Adding one item to the cart.
+Check whether the quality is increased when adding the same item to the cart.
+Check whether the quantity is decreased when removing some items from the cart.
+Check whether the user can remove all items from the cart, the cart should be displayed as empty
+Check whether the count of the cart getting changing or not when the user adds an item to the cart.
+Check whether the page redirects to the product detail page when clicking on the product in the shopping cart.
+Check whether the user is redirected to the checkout page after clicking on the checkout button.
+Check whether the total price is added when the product is added to the cart.
+Check whether the total price reduces when the product is removed from the cart.
+Check whether the products in the shopping cart remain the same even when the user closes the browser page and reopens it.
+Check whether the user can access the Checkout Page only after adding the product to the cart.
+Check the cart total when the admin implements exclusive tax.
+Check whether only registered users are allowed to access the Checkout Address Page.
+Check whether a Back to cart link redirects the user back to the shopping cart page.
