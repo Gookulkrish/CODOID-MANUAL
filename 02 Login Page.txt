@@ -1,0 +1,33 @@
+Defect ID:
+	D_002_WP
+Defect Title:
+	 Login page submit button is not working.
+Defect Description/Steps to reproduce:
+
+1. Enter the URL,
+2. Enter the Username,
+3. Enter the Password, 
+4. Click submit button
+
+Expected Result :
+	User should Sucessfully logged in.
+Actual Result:
+	Submit button is not working.
+Evidence/attachment :
+	< Image >
+Severity:
+	High
+Priority :
+	Medium
+Module affected :
+	User page
+Environment :
+	Google Chrome 
+Reported by :
+	Gokula krishnan M
+Reported on :
+	01-04-2023
+Status :
+	New
+Assigned To :
+	Developer Name

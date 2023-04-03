@@ -1,0 +1,33 @@
+Defect ID:
+	D_003_WP
+Defect Title:
+	 Users Cannot send Message to others.
+Defect Description/Steps to reproduce:
+
+1. Open Whatsapp,
+2. Select any contacts,
+3. Type the message,
+4. Click send icon,
+
+Expected Result :
+	Message should receive to the particular user.
+Actual Result:
+	Message not send to the particular user.
+Evidence/attachment :
+	< Image >
+Severity:
+	High
+Priority :
+	High
+Module affected :
+	-
+Environment :
+	Mobile Application
+Reported by :
+	Gokula krishnan M
+Reported on :
+	01-04-2023
+Status :
+	New
+Assigned To :
+	Developer Name

@@ -1,0 +1,33 @@
+Defect ID:
+	D_001_WP
+Defect Title:
+	 users Cannot send video files in group chats.
+Defect Description/Steps to reproduce:
+
+1. Open Whatsapp
+2. Select any Group
+3. Click on Attachment icon 
+4. Click Video icon
+5. Select Any Video to Send.
+Expected Result :
+	Video should Send in the Group.
+Actual Result:
+	Unabvle to send the video in the particular group.
+Evidence/attachment :
+	< Image >
+Severity:
+	High
+Priority :
+	Medium
+Module affected :
+	-
+Environment :
+	Mobile Application
+Reported by :
+	Gokula krishnan M
+Reported on :
+	01-04-2023
+Status :
+	New
+Assigned To :
+	Developer Name

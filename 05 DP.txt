@@ -1,0 +1,35 @@
+Defect ID:
+	D_004_WP
+Defect Title:
+	 Users Cannot Update profile picture.
+Defect Description/Steps to reproduce:
+
+1. Open Whatsapp,
+2. Select more options,
+3. Select Settings,
+4. Click on account info,
+5. Click on the display image,
+6. Select the Required Option to upload.
+
+Expected Result :
+	Profile picture should Update.
+Actual Result:
+	Profile picture should Update.
+Evidence/attachment :
+	< Image >
+Severity:
+	High
+Priority :
+	Medium
+Module affected :
+	-
+Environment :
+	Mobile Application
+Reported by :
+	Gokula krishnan M
+Reported on :
+	01-04-2023
+Status :
+	New
+Assigned To :
+	Developer Name
